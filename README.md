@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="display: flex; align-items: center;">
+  <img src="https://media.discordapp.net/attachments/1118221160946073770/1173325079074054225/CryptoPunk_9845_-_CryptoPunks___OpenSea.jpg?ex=65638b22&is=65511622&hm=8201cc2a3d7232124e5fe73f6e46b7053682157d5c879ae84b81b25f946b1544&" alt="warfdev" style="border-radius: 100%; width: 30px; height: 30
+    30px; margin-right: 100px;">
+  <strong>Hi there!</strong>
+</div>
 - I'm warfdev a.k.a ksvnwharf
 - I live in Turkey.
 - Working on JavaScript, C++ and lua.
