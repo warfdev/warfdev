@@ -3,6 +3,7 @@
     30px; margin-right: 100px;">
   <strong>Hi there!</strong>
 </div>
+
 - I'm warfdev a.k.a ksvnwharf
 - I live in Turkey.
 - Working on JavaScript, C++ and lua.
